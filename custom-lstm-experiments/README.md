@@ -48,13 +48,6 @@ custom-lstm-experiments/
  ```bash
      python demo_script.py
      demo.ipynb
-
-The training pipeline includes:
-
-    . Data augmentation
-    . Performance plots and evaluation metrics
-    . Confusion matrix and misclassified samples
-    
 ```
 ---
 
