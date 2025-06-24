@@ -60,10 +60,6 @@ The training pipeline includes:
 
 ## Results
 
-```bash
-
----
-
 ## Binary Counting Project
 
 This project trains the custom LSTM to predict the sum of binary sequences of length 20. The
@@ -100,7 +96,7 @@ time series using a sliding window approach.
 - Includes training loss and test loss evaluation per epoch.
 
 **Visualization:** See below plots showing how the model improves over epochs.
-
+```
 ---
 ![Sine curve 1](sine_epoch0.png)
 ![Sine curve 1](sine_epoch2.png)
