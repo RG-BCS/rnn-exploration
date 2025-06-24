@@ -47,7 +47,7 @@ custom-lstm-experiments/
  ### Running the Demo:
  ```bash
      python demo_script.py
-     demo.ipynb
+     jupyter notebook demo.ipynb
 ```
 ---
 
