@@ -106,11 +106,11 @@ custom-gru-sentiment-analysis/
 
 ## Training Results
 
-```bash
 Training was performed for 10 epochs on each model, using binary cross-entropy loss and Adam optimizer
 with learning rate 0.001.
 
 ### 1. Custom GRU
+```bash
 
 | Epoch | Train Acc | Train Loss | Valid Acc | Valid Loss | Grad Norm | Time (s) |
 |-------|-----------|------------|-----------|------------|-----------|----------|
