@@ -16,8 +16,6 @@ Jules Verne, this project has something for you.
 
 ## Motivation & Project Overview
 
-```bash
-
 Language is one of the most complex and fascinating aspects of human intelligence. The ability to model, understand, and
 generate coherent text from scratch has long been a benchmark in natural language processing (NLP). While large-scale language
 models dominate the headlines today, there’s still immense educational value in building models from the ground up — character
@@ -37,7 +35,6 @@ This is a great learning tool for understanding:
 - Sequence modeling in PyTorch
 - The importance of model design choices in generative tasks
 
-```
 ---
 
 ## Dataset & Preprocessing
