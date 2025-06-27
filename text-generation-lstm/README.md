@@ -93,7 +93,6 @@ text-generation-lstm/
     ├── requirements.txt         # Project dependencies
     ├── README.md                # Project overview, setup, and usage
 
-
 ```
 ---
 
@@ -129,7 +128,7 @@ Training was run on GPU with the following configuration:
 Generated Text(after 5 epochs) Shown below
 
 Note: The model begins to mimic sentence structure and vocabulary even after a few epochs.
-With longer training, output fluency improves significantly.
+With longer training, output fluency improves significantly. The word, The island, was used as the text generation initiator.
 
 ### 1. Using Greedy(Argmax):
 
