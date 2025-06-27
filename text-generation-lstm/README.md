@@ -1,6 +1,5 @@
 # Character-Level Text Generation with LSTM
 
-```bash
 *A Deep Learning Model Trained to Mimic Jules Verne's Writing Style*
 
 This project demonstrates how a character-level LSTM neural network can be used to generate English text — one character
@@ -13,7 +12,6 @@ of natural language when trained on nothing more than raw characters.
 Whether you're here to dive into NLP, experiment with text generation, or just watch a neural net attempt to write like
 Jules Verne, this project has something for you.
 
-```
 ---
 
 ## Motivation & Project Overview
