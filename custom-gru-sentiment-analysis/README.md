@@ -1,6 +1,5 @@
 # Sentiment Analysis on IMDB Dataset Using GRU Models
 
-```bash
 This project demonstrates sentiment classification on movie reviews using three types of GRU-basedarchitectures:
 
 - **Custom GRU**: A manually implemented GRU cell and sentiment classifier  
@@ -8,12 +7,10 @@ This project demonstrates sentiment classification on movie reviews using three 
 - **Bi-directional GRU**: A PyTorch built-in GRU capturing context in both directions  
 
 These models are compared in terms of training speed, accuracy, and overall performance on the IMDBdataset.
-```
 ---
 
 ## Motivation
 
-```bash
 Sentiment analysis is a fundamental natural language processing task that powers applications like
 customer feedback interpretation, social media monitoring, and market research. While pre-built
 models and libraries exist, implementing a custom GRU from scratch provides invaluable insights
@@ -29,7 +26,6 @@ This project aims to deepen understanding by:
 By sharing this repo, the goal is to highlight hands-on expertise and a solid grasp of fundamental
 deep learning concepts, making a strong case for joining any team focused on NLP or ML engineering.
 
-```
 ---
 
 ## Project Overview
