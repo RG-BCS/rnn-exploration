@@ -7,6 +7,7 @@ This project demonstrates sentiment classification on movie reviews using three 
 - **Bi-directional GRU**: A PyTorch built-in GRU capturing context in both directions  
 
 These models are compared in terms of training speed, accuracy, and overall performance on the IMDBdataset.
+
 ---
 
 ## Motivation
@@ -30,7 +31,6 @@ deep learning concepts, making a strong case for joining any team focused on NLP
 
 ## Project Overview
 
-```bash
 Recurrent Neural Networks (RNNs) are a cornerstone of sequence modeling in NLP. GRUs, a type of gated
 RNN, balance model complexity and efficiency, mitigating vanishing gradients while capturing long-term dependencies.
 
@@ -39,7 +39,7 @@ This project aims to:
 - Implement a custom GRU to deepen understanding of its inner workings  
 - Leverage PyTorch’s optimized GRU implementations for improved performance  
 - Analyze the impact of uni-directional vs. bi-directional architectures on sentiment classification accuracy  
-```
+
 ---
 
 ## Dataset & Preprocessing
