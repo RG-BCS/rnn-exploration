@@ -1,21 +1,18 @@
 # Custom LSTM Experiments
 
-```bash
 This repository contains two projects implementing a **custom LSTM cell** from scratch in PyTorch, demonstrating its capability on distinct sequence modeling tasks:
 
 - **Binary Counting**: Learning to predict the sum of binary sequences.
 - **Sine Wave Prediction**: Forecasting a sine wave time series.
-```
+
 ---
 
 ## Motivation
 
-```bash
 While PyTorch provides built-in LSTM layers, implementing one from scratch provides deep insight into
 the internal workings of recurrent units, gate mechanisms, and parameter initialization. This repository
 showcases how a custom LSTM can be constructed and trained end-to-end on meaningful problems.
 
-```
 ---
 
 ##  Project Structure
@@ -98,12 +95,9 @@ time series using a sliding window approach.
 
 ## Conclusion
 
-```bash
-
 This repo demonstrates that a custom-built LSTM cell can learn to solve classical sequence tasks effectively,
 bridging theory and practical implementation. It offers a solid foundation for understanding RNN internals
 and experimenting with custom architectures.
 
-```
 ---
 
